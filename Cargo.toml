@@ -3,5 +3,6 @@ name = "yaits"
 version = "0.0.1"
 edition = "2024"
 readme = "README.md"
+license = "Unlicense"
 
 [dependencies]
