@@ -12,5 +12,5 @@ readme = "README.md"
 [dependencies]
 
 [dev-dependencies]
-anyhow = "*"
-itertools = "*"
+anyhow = "1.0.104"
+itertools = "0.15.0"
