@@ -2,7 +2,7 @@
 #![feature(try_trait_v2)]
 #![feature(try_trait_v2_residual)]
 
-//! Experimental iterator extensions.
+//! Experimental iterator expansions.
 //!
 //! This implementation is highly unstable, so currently versioning as `0.0.*`.
 //!

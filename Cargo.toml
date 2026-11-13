@@ -2,8 +2,12 @@
 name = "yaits"
 version = "0.0.1"
 edition = "2024"
-readme = "README.md"
+description = "Experimental iterator expansions."
+repository = "https://github.com/nanai10a/yaits"
 license = "Unlicense"
+keywords = ["iterator", "nightly"]
+categories = ["data-structure", "rust-patterns"]
+readme = "README.md"
 
 [dependencies]
 
