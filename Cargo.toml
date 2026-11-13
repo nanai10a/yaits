@@ -1,6 +1,6 @@
 [package]
 name = "yaits"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2024"
 description = "Experimental iterator expansions."
 repository = "https://github.com/nanai10a/yaits"
