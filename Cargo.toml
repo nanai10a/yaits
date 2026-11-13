@@ -6,7 +6,7 @@ description = "Experimental iterator expansions."
 repository = "https://github.com/nanai10a/yaits"
 license = "Unlicense"
 keywords = ["iterator", "nightly"]
-categories = ["data-structure", "rust-patterns"]
+categories = ["data-structures", "rust-patterns"]
 readme = "README.md"
 
 [dependencies]
